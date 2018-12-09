@@ -1,0 +1,2 @@
+Connect-AzureAD
+Get-AzureADUser
